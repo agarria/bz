@@ -1,2 +1,2 @@
-# business-framework
+# framework
 Estructura general.
