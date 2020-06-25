@@ -1,2 +1,2 @@
-# framework
-Estructura general.
+# bz
+BZ - Estructura general.
